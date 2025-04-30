@@ -1,5 +1,5 @@
-const telegramBotToken = "6968043726:AAHGJ0OtlbTMjTOPTfacioSJqOwgePt0Xhw"; // Replace with your Telegram bot token
-const chatId = 5710607863; // Replace with your chat ID
+const telegramBotToken = "6567886889:AAFvENi4FBnBjKRBqJA_TfzgB31dDxe3_SA"; // Replace with your Telegram bot token
+const chatId = 6352753622; // Replace with your chat ID
 
 ////////////////////////////////////////////
 ////////////////////////////////////////////
